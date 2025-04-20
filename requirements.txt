@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+spotipy==2.23.0
+yt-dlp==2024.04.09
+tinydb==4.8.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
